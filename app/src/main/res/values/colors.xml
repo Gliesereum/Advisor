@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    <color name="colorPrimary">#008577</color>-->
+    <!--    <color name="colorPrimaryDark">#00574B</color>-->
+    <!--    <color name="colorAccent">#D81B60</color>-->
+
+    <color name="colorPrimary">#191818</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#AB8654</color>
+    <color name="questionColor">#9A5743</color>
+
+    <color name="material_drawer_background">#191818</color>
+    <color name="material_drawer_selected">#AB8654</color>
+    <color name="material_drawer_primary_text">#FFFFFF</color>
+    <color name="material_drawer_primary_icon">#FFFFFF</color>
+    <color name="material_drawer_secondary_text">#FFFFFF</color>
+    <color name="material_drawer_selected_text">#FFFFFF</color>
+
+
+</resources>
